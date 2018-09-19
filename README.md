@@ -15,5 +15,5 @@
     swap.R
     fenpei.R
     tiaojian.R
-10.jiou.R
+    jiou.R
 ##### 此外还包含三份R原始数据：1.Rdata、2.Rdata、3.Rdata
